@@ -1,0 +1,3 @@
+First of all thanks for downloading ProjectGraph. Iam sure that it will help you. This lets you know the basic uses of Microsoft Chart Control 6.0. It lets you to import a database which the graph reads and display as any graph type you wish. It allows you to save graph as bitmap files! It allows you to copy graph to clipboard! Print the graph! and lot's of other options that you have to explore...
+
+If you like it please vote for me at PSC!!!
